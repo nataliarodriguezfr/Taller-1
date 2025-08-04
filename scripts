@@ -1,0 +1,18 @@
+# Crear tabla de frecuencias
+tabla_capac <- table(TenderosFU03_Publica_1$Capac)
+
+# Crear gráfico de pastel
+pie(tabla_capac,
+    main = "Distribución de la variable 'Capac'",
+    col = rainbow(length(tabla_capac)),
+    labels = paste(names(tabla_capac), "\n", round(prop.table(tabla_capac) * 100, 1), "%"))
+
+# Crear tabla de frecuencias
+tabla_capac <- table(TenderosFU03_Publica_1$capcac_Interes)
+
+# Crear gráfico de pastel
+pie(tabla_capac,
+    main = "Interés en Capacitación",
+    col = rainbow(length(tabla_capac)),
+    labels = paste(names(tabla_capac), "\n", round(prop.table(tabla_capac) * 100, 1), "%"))
+
