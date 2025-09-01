@@ -28,14 +28,14 @@ Este repositorio contiene el desarrollo del **Taller 1**, cuyo objetivo es anali
 ---
 
 ## Resultados
-- Porcentajes de penetración de internet en microempresas municipio.  
-- Rankings comparativos entre Municipios.  
+- Porcentajes de penetración de internet en microempresas por municipio.  
+- Municipios por conectividad y población
 
 ---
 
 ## ✍️ Autores
-- [Natalia Rodríguez]
-- [Isaac Suarez]
-- [Juan David Vargas]  
+- Natalia Rodríguez
+- Isaac Suarez
+- Juan David Vargas
 
 ---
