@@ -13,7 +13,7 @@ Este repositorio contiene el desarrollo del **Taller 1**, cuyo objetivo es anali
 ##  Metodología
 1. Se toma la información de microempresas:  
    - Actividad económica.  
-   - Ubicación (barrio/municipio).  
+   - Ubicación (municipio).  
    - Acceso a internet (sí/no).  
 
 2. Se cruza con la población total de cada municipio.  
@@ -23,13 +23,13 @@ Este repositorio contiene el desarrollo del **Taller 1**, cuyo objetivo es anali
    - Proporcion de TIENDAS con acceso a internet por Municipio
    - Proporcion de empresas con acceso a internet por actividad economica
 
-5. Se elaboran rankings y visualizaciones para identificar las ciudades y barrios con mayor y menor digitalización.  
+5. Se elaboran rankings y visualizaciones para identificar los municipios con mayor y menor digitalización.  
 
 ---
 
 ## Resultados
-- Porcentajes de penetración de internet en microempresas por barrio y municipio.  
-- Rankings comparativos entre ciudades.  
+- Porcentajes de penetración de internet en microempresas municipio.  
+- Rankings comparativos entre Municipios.  
 
 ---
 
